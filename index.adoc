@@ -1,6 +1,7 @@
 = Kotlin : Le back du futur
 :revealjs_theme: night
 :revealjs_slideNumber: true
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0
 :imagesdir: images
 :title-slide-background-image: kotlin-island.jpg
 :title-slide-transition: zoom
